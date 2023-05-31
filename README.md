@@ -14,3 +14,5 @@ SmartX Labs Mini 이후에는 OpenStack 기반으로 구성된 SmartX Playground
 질문이나 피드백은 언제나 환영합니다. 아래의 메일 주소를 통해 소중한 의견 부탁드립니다.
 
 문의: mini@smartx.kr
+sudo kubeadm join 172.29.0.115:6443 --token rrlscn.gsl7tvmj233lrals \
+    --discovery-token-ca-cert-hash sha256:16cd5b106d5cf9dcd8b4273c847d154f014fd38ed9227517e5ee9fd2bb442535 
